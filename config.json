@@ -110,7 +110,7 @@
     "print-time": 60,
     "dmi": true,
     "syslog": false,
-    "tls": {
+    "tls":{
         "enabled": false,
         "protocols": null,
         "cert": null,
